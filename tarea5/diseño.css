@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url('imagenes/servicio-tecnico-de-computadores.jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.card-deck .card {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #5c4ced;
+    color: rgb(14, 14, 14);
+    text-align: center;
+    padding: 20px 0;
+}
